@@ -19,9 +19,7 @@ Most of the time you don't need to draw your own icons, or take your own photos.
 
 + [randomuser.me](https://randomuser.me/photos) To get fake user profile images.
 
-+ [depositphotos](http://depositphotos.com/)
-+ [ttt](ddd)   
-  Millions of high-quality royalty-free stock images and high-definition footage at the best prices to fill all your creative needs.
++ [depositphotos](http://depositphotos.com/) Millions of high-quality royalty-free stock images and high-definition footage at the best prices to fill all your creative needs.
 
 
 
